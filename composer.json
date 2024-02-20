@@ -13,7 +13,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.5|^7.0",
-        "illuminate/macroable": "^9.35|^10.1",
+        "illuminate/macroable": "dev-master",
         "illuminate/support": "dev-master",
         "ratchet/pawl": "^0.4.1",
         "symfony/process": "^5.4|^6.0|^7.0",
